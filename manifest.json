@@ -5,7 +5,7 @@
   "description": "Check the current weather in your location or any other location",
   "start_url": ".",
   "theme_color": "#20a8f4",
-  "background_color": "#20a8f4",
+  "background_color": "#0055AA",
   "display": "standalone",
   "categories": "weather, news, current events",
   "icons": [
